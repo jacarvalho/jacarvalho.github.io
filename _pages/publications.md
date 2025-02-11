@@ -11,7 +11,7 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-For a complete list of publications, please visit my [google scholar](https://scholar.google.com/citations?user=xYUxMF0AAAAJ&hl=en).
+For a complete and up-to-date list of publications, please visit my [google scholar](https://scholar.google.com/citations?user=xYUxMF0AAAAJ&hl=en).
 
 {% include bib_search.liquid %}
 

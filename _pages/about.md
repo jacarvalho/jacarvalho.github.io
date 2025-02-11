@@ -38,12 +38,15 @@ latest_posts:
 </b>
 
 <p style='text-align: justify;'>
-I am research assistant at the 
-<a href="https://www.ias.informatik.tu-darmstadt.de/" target="_blank">Intelligent Autonomous Systems Group</a>
-from TU Darmstadt, where I recently obtained my Ph.D. in Computer Science avised by
-<a href="https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters" target="_blank">Jan Peters</a>.
+I am a research assistant at the 
+<b><a href="https://www.ias.informatik.tu-darmstadt.de/" target="_blank">Intelligent Autonomous Systems (IAS)</a></b> 
+group from
+<b><a href="https://www.tu-darmstadt.de/" target="_blank">TU Darmstadt</a></b>,
+where I recently obtained my Ph.D. in Computer Science advised by
+<b><a href="https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters" target="_blank">Jan Peters</a></b>.
 <br>
-My research interests are developing <b> machine learning</b> and <b>reinforcement learning</b> algorithms for robot manipulation. 
+My research interests are developing <b> machine learning</b> and <b>reinforcement learning</b> algorithms for <b>robot manipulation</b>. 
 These include methods that leverage generative models for motion planning and grasping, reinforcement learning methods to solve contact-rich tasks like insertions, or improving policy gradient methods with variance reduction techniques.
 </p>
+
 
