@@ -1,0 +1,5 @@
+[[redirects]]
+ from = "https://www.joao-carvalho.net/*"
+ to = "https://joaoamcarvalho.github.io/"
+ status = 301
+ force = true
