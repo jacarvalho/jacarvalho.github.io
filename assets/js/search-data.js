@@ -38,8 +38,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-i-ve-defended-my-ph-d-thesis",
-          title: 'I’ve defended my Ph.D. thesis.',
+    },{id: "news-i-ve-defended-my-ph-d-thesis-on-enhancing-robot-manipulation-skills-through-learning",
+          title: 'I’ve defended my Ph.D. thesis on Enhancing Robot Manipulation Skills through Learning.',
           description: "",
           section: "News",},{
         id: 'social-email',
