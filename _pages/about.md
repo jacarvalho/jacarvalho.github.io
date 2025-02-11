@@ -48,5 +48,3 @@ where I recently obtained my Ph.D. in Computer Science advised by
 My research interests are developing <b> machine learning</b> and <b>reinforcement learning</b> algorithms for <b>robot manipulation</b>. 
 These include methods that leverage generative models for motion planning and grasping, reinforcement learning methods to solve contact-rich tasks like insertions, or improving policy gradient methods with variance reduction techniques.
 </p>
-
-
