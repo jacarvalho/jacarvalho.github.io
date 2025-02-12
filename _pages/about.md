@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<b><mailto: joao@robot-learning.de></b>
+**contact:** <b><mailto: joao@robot-learning.de></b>
 
 <b>
 [google scholar](https://scholar.google.com/citations?user=xYUxMF0AAAAJ&hl=en) &middot; 
